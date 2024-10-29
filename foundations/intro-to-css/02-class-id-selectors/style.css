@@ -1,0 +1,21 @@
+.small, .big{
+    background-color: salmon
+}
+.small{
+    font-size: 28px;
+}
+.big{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 42px;
+
+}
+#two{
+    font-size: 72px;
+    color: blue;
+
+}
+#four{
+    font-size: 48px;
+    font-weight: bolder;
+    background-color: limegreen;
+}
